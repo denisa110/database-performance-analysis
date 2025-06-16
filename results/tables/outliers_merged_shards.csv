@@ -1,0 +1,7 @@
+column,n_outliers
+documents_returned_sh,19
+exec_time_shards,2
+documents_returned_nsh,19
+exec_time_no_shards,1
+time_saved_ms,17
+pct_improvement,17

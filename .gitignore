@@ -1,0 +1,14 @@
+*.log
+*.tmp
+
+.vscode/
+.idea/
+
+*.class
+*.pyc
+*.o
+
+venv/
+
+.DS_Store
+Thumbs.db
